@@ -473,7 +473,7 @@ To check, `ping` the server or node you're trying to add or remove.
 If the ping is unsuccessful, something in the network is preventing communication.
 
 ```bash
-ping enterprise-data-03:8088
+ping enterprise-data-03
 ```
 
 _If pings are unsuccessful, be sure to ping from other meta nodes as well to determine
